@@ -1,0 +1,12 @@
+{
+    "name": "juwai/thrift-demo",
+    "authors": [
+        {
+            "name": "Juwai.com",
+            "email": "it@juwai.com"
+        }
+    ],
+    "require": {
+        "apache/thrift": "0.9.1.x@dev"
+    }
+}

@@ -1,0 +1,6 @@
+/vendor/
+/gen*/
+/node_modules/
+/env/
+npm-debug.log
+*.pyc
